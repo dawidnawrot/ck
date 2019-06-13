@@ -71,3 +71,11 @@ Once the doc you created is ready to publish commit your changes, push it to rep
 
 ## More info
 For more information check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+
+## Publishing to GH pages
+This part of documentation is not intended to people who commiting their changes as pull requests. In order to publish to gh pages on Windows we need to add new environment var in current process space. So:
+
+`set GIT_USER=githubusername`
+`yarn publish-gh-pages`
+
+Voilla!
