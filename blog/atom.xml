@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dawidnawrot.github.io/ck/blog</id>
-    <title>CK documentation Blog</title>
+    <title>docs Blog</title>
     <updated>2017-10-24T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://dawidnawrot.github.io/ck/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest CK documentation news and events.</subtitle>
-    <logo>https://dawidnawrot.github.io/ck/img/favicon.ico</logo>
+    <subtitle>The best place to stay up-to-date with the latest docs news and events.</subtitle>
+    <logo>https://dawidnawrot.github.io/ck/img/ck.png</logo>
     <rights>Copyright © 2019 Your Name or Your Company Name</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
