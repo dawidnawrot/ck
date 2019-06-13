@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Drupal Europe
-sidebar_label: Example Page
+id: intro
+title: Lando
+sidebar_label: Intro
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

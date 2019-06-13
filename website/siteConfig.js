@@ -21,10 +21,10 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'CK documentation', // Title for your website.
+  title: 'docs', // Title for your website.
   tagline: 'A website for testing',
   url: 'https://dawidnawrot.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  baseUrl: '/ck/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -38,24 +38,23 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: 'drupal-europe/intro', label: 'Drupal Europe'},
+    {doc: 'drupal-innercircle/intro', label: 'Drupal InnerCircle'},
+    {doc: 'lando/intro', label: 'Lando'}
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: 'img/ck.png',
+  footerIcon: 'img/circlek.svg',
+  favicon: 'img/circlek.svg',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#4c0d01',
-    secondaryColor: '#350900',
+    primaryColor: '#c70b0b',
+    secondaryColor: '#4a4646',
   },
 
   /* Custom fonts for website */
