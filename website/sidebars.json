@@ -16,5 +16,10 @@
       "lando/intro",
       "lando/troubleshooting"
     ]
+  },
+  "docusaurus": {
+    "General": [
+      "docusaurus/development"
+    ]
   }
 }

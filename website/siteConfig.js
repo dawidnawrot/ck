@@ -40,7 +40,8 @@ const siteConfig = {
   headerLinks: [
     {doc: 'drupal-europe/intro', label: 'Drupal Europe'},
     {doc: 'drupal-innercircle/intro', label: 'Drupal InnerCircle'},
-    {doc: 'lando/intro', label: 'Lando'}
+    {doc: 'lando/intro', label: 'Lando'},
+    {doc: 'docusaurus/development', label: 'Docusaurus'}
   ],
 
   // If you have users set above, you add it here:
