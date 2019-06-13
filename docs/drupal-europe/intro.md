@@ -4,7 +4,7 @@ title: Drupal Europe
 sidebar_label: Intro
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+Check the [documentation](https://docusaurus.io) for how to use Docusaurus here.
 
 ## Lorem dawid nawrot
 
