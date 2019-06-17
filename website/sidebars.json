@@ -2,6 +2,7 @@
   "drupal-europe": {
     "Drupal Europe": [
       "drupal-europe/intro",
+      "drupal-europe/composer",
       "drupal-europe/troubleshooting"
     ]
   },
