@@ -3,6 +3,7 @@
     "Drupal Europe": [
       "drupal-europe/intro",
       "drupal-europe/composer",
+      "drupal-europe/split-config-translations",
       "drupal-europe/troubleshooting"
     ]
   },
