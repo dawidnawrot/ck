@@ -13,3 +13,10 @@ holds translations only, but to be precise it should be placed in split direcoto
 ## Solution
 
 I believe the one way to overcome this issue is to create another custom module based on config_filter (the same as it's used by config_split) and force `config-split:export` command to place translated configs in site repo. There's not much documentation about it, but there is a config_filter_split_test module in tests directory of config_fiter module, also config_split and [config_ignore](https://git.drupalcode.org/project/config_ignore/tree/8.x-2.x) uses config_fiter.
+
+## Links
+
+ - [Config filter](https://git.drupalcode.org/project/config_filter)
+ - [Config ignore collection](https://git.drupalcode.org/project/config_ignore_collection/tree/8.x-1.x/)
+ - [Config igone](https://git.drupalcode.org/project/config_ignore)
+ - [Config split](https://git.drupalcode.org/project/config_split)
