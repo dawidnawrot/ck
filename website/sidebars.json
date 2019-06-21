@@ -16,6 +16,7 @@
   "lando": {
     "Lando": [
       "lando/intro",
+      "lando/xdebug",
       "lando/troubleshooting"
     ]
   },
