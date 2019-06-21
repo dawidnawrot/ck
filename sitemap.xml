@@ -22,4 +22,5 @@
 <url> <loc>https://dawidnawrot.github.io/ck_docusaurus/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dawidnawrot.github.io/ck_docusaurus/docs/doc5" /> </url>
 <url> <loc>https://dawidnawrot.github.io/ck_docusaurus/docs/lando/intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dawidnawrot.github.io/ck_docusaurus/docs/lando/intro" /> </url>
 <url> <loc>https://dawidnawrot.github.io/ck_docusaurus/docs/lando/troubleshooting</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dawidnawrot.github.io/ck_docusaurus/docs/lando/troubleshooting" /> </url>
+<url> <loc>https://dawidnawrot.github.io/ck_docusaurus/docs/lando/xdebug</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dawidnawrot.github.io/ck_docusaurus/docs/lando/xdebug" /> </url>
 </urlset>
