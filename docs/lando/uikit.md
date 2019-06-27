@@ -4,13 +4,12 @@ title: UI Kit
 sidebar_label: UI Kit
 ---
 
-
-
 ## Service
 
 Lando creates separate container to serve and process uikit library which is used as core part of `circlek` drupal theme. Once lando is setup you can access: [`http://ckfront.lndo.site`](http://ckfront.lndo.site) site to get the file listing. It's listing `dist` directory only. CSS and JS files are used in circlek.libraries.yml file in our `circlek` theme.
 
 ## Development
+
 To get runner work just shh to a ckfront service: `lando ssh -s ckfront`, go to `/app/uikit` dir and type: `yarn watch`. While providing changes your css and js is going to be rebuild on each file save.
 
 ## Lando part
@@ -35,3 +34,5 @@ proxy:
   ckfront:
     - ckfront.lndo.site:8080 # This port needs to say here.
 ```
+
+Service uses [`http-server`](https://github.com/indexzero/http-server) simple package to serve static files which is installed as global package and command to run server is hs. `-c-1` parameter force server not to cache anything (by default server caches served data).
