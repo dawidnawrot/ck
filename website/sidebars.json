@@ -17,6 +17,7 @@
     "Lando": [
       "lando/intro",
       "lando/xdebug",
+      "lando/uikit",
       "lando/troubleshooting"
     ]
   },
