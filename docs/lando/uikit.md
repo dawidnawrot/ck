@@ -10,7 +10,7 @@ Lando creates separate container to serve and process uikit library which is use
 
 ## Development
 
-To get runner work just type lando yarn watch or shh to a ckfront service: `lando ssh -s ckfront`, go to `/app/uikit` dir and type: `yarn watch`. While providing changes your css and js is going to be rebuild on each file save.
+To get runner work just type `lando yarn watch` or shh to a ckfront service: `lando ssh -s ckfront`, go to `/app/uikit` dir and type: `yarn watch`. While providing changes your css and js is going to be rebuild on each file save.
 
 ## Lando part
 
