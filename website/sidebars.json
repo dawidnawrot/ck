@@ -11,6 +11,7 @@
   "drupal-innercircle": {
     "Drupal InnerCircle": [
       "drupal-innercircle/intro",
+      "drupal-innercircle/athena-logs-queries",
       "drupal-innercircle/troubleshooting"
     ]
   },
