@@ -20,6 +20,7 @@
       "lando/intro",
       "lando/xdebug",
       "lando/uikit",
+      "lando/drush-aliases",
       "lando/troubleshooting"
     ]
   },
