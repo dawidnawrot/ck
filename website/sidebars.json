@@ -5,7 +5,8 @@
       "drupal-europe/composer",
       "drupal-europe/split-config-translations",
       "drupal-europe/environment-global-setting",
-      "drupal-europe/troubleshooting"
+      "drupal-europe/troubleshooting",
+      "drupal-europe/migrations"
     ]
   },
   "drupal-innercircle": {
