@@ -6,7 +6,8 @@
       "drupal-europe/split-config-translations",
       "drupal-europe/environment-global-setting",
       "drupal-europe/troubleshooting",
-      "drupal-europe/migrations"
+      "drupal-europe/migrations",
+      "drupal-europe/aws"
     ]
   },
   "drupal-innercircle": {
